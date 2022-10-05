@@ -1,0 +1,1 @@
+/bin/x86_64-linux-gnu-gcc-9 -g   CMakeFiles/main.dir/main.c.o CMakeFiles/main.dir/linenoise.c.o CMakeFiles/main.dir/parsing.c.o CMakeFiles/main.dir/variables.c.o CMakeFiles/main.dir/commands.c.o CMakeFiles/main.dir/ext_commands.c.o CMakeFiles/main.dir/redirection.c.o CMakeFiles/main.dir/piping.c.o  -o main 

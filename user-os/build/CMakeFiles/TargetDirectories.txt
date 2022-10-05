@@ -1,0 +1,3 @@
+/home/xibby/build/CMakeFiles/rebuild_cache.dir
+/home/xibby/build/CMakeFiles/edit_cache.dir
+/home/xibby/build/CMakeFiles/main.dir

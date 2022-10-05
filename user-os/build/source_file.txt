@@ -1,0 +1,3 @@
+VAR=test
+echo this is a test
+export VAR

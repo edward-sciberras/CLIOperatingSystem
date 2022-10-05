@@ -1,0 +1,42 @@
+[
+{
+  "directory": "/home/xibby/build",
+  "command": "/bin/x86_64-linux-gnu-gcc-9   -g   -o CMakeFiles/main.dir/main.c.o   -c /home/xibby/smash/main.c",
+  "file": "/home/xibby/smash/main.c"
+},
+{
+  "directory": "/home/xibby/build",
+  "command": "/bin/x86_64-linux-gnu-gcc-9   -g   -o CMakeFiles/main.dir/linenoise.c.o   -c /home/xibby/smash/linenoise.c",
+  "file": "/home/xibby/smash/linenoise.c"
+},
+{
+  "directory": "/home/xibby/build",
+  "command": "/bin/x86_64-linux-gnu-gcc-9   -g   -o CMakeFiles/main.dir/parsing.c.o   -c /home/xibby/smash/parsing.c",
+  "file": "/home/xibby/smash/parsing.c"
+},
+{
+  "directory": "/home/xibby/build",
+  "command": "/bin/x86_64-linux-gnu-gcc-9   -g   -o CMakeFiles/main.dir/variables.c.o   -c /home/xibby/smash/variables.c",
+  "file": "/home/xibby/smash/variables.c"
+},
+{
+  "directory": "/home/xibby/build",
+  "command": "/bin/x86_64-linux-gnu-gcc-9   -g   -o CMakeFiles/main.dir/commands.c.o   -c /home/xibby/smash/commands.c",
+  "file": "/home/xibby/smash/commands.c"
+},
+{
+  "directory": "/home/xibby/build",
+  "command": "/bin/x86_64-linux-gnu-gcc-9   -g   -o CMakeFiles/main.dir/ext_commands.c.o   -c /home/xibby/smash/ext_commands.c",
+  "file": "/home/xibby/smash/ext_commands.c"
+},
+{
+  "directory": "/home/xibby/build",
+  "command": "/bin/x86_64-linux-gnu-gcc-9   -g   -o CMakeFiles/main.dir/redirection.c.o   -c /home/xibby/smash/redirection.c",
+  "file": "/home/xibby/smash/redirection.c"
+},
+{
+  "directory": "/home/xibby/build",
+  "command": "/bin/x86_64-linux-gnu-gcc-9   -g   -o CMakeFiles/main.dir/piping.c.o   -c /home/xibby/smash/piping.c",
+  "file": "/home/xibby/smash/piping.c"
+}
+]
